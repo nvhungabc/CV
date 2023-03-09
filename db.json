@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "name": "Giao diện HTML",
+      "mo_ta": "Giao diện được tạo và chỉnh sửa tỉ mỉ để phù hợp với nội dung của bài và với nhiều chức năng tiện ích đi kèm giúp thuận lợi cho người dùng và có tính thẩm mỹ cao",
+      "categoryId": "1",
+      "id": 1
+    },
+    {
+      "name": "Javascript ",
+      "mo_ta": "Javascript là nơi tạo ra các tính năng giúp cho trang web có tính hoàn thiện và thẩm mỹ với các công cụ được tạo nên nhưng chức nănglàm trang web trở nên sống động hơn .....",
+      "categoryId": "2",
+      "id": 2
+    },
+    {
+      "name": "Dự Án 1",
+      "mo_ta": "Dự án 1 là 1 trang web đặt lịch xem xe ô tô được tạo trong ký 4 và đã được kiểm tra trang web là một nơi để người dùng có thể vào xem xe ô tô và sau khi xem cũng có thể đặt lịch để xem thực tế mang tính trải nghiệm cho người dùng",
+      "categoryId": "3",
+      "id": 3
+    },
+    {
+      "name": "Dự Án 1",
+      "mo_ta": "Dự án 1 là 1 trang web đặt lịch xem xe ô tô được tạo trong ký 4 và đã được kiểm tra trang web là một nơi để người dùng có thể vào xem xe ô tô và sau khi xem cũng có thể đặt lịch để xem thực tế mang tính trải nghiệm cho người dùng",
+      "categoryId": "3",
+      "id": 4
+    },
+    {
+      "name": "Giao diện HTML",
+      "mo_ta": "Giao diện được tạo và chỉnh sửa tỉ mỉ để phù hợp với nội dung của bài và với nhiều chức năng tiện ích đi kèm giúp thuận lợi cho người dùng và có tính thẩm mỹ cao",
+      "categoryId": "1",
+      "id": 5
+    },
+    {
+      "name": "Dự Án 1",
+      "mo_ta": "Dự án 1 là 1 trang web đặt lịch xem xe ô tô được tạo trong ký 4 và đã được kiểm tra trang web là một nơi để người dùng có thể vào xem xe ô tô và sau khi xem cũng có thể đặt lịch để xem thực tế mang tính trải nghiệm cho người dùng",
+      "categoryId": "3",
+      "id": 6
+    },
+    {
+      "name": "Javascript ",
+      "mo_ta": "Giao diện được tạo và chỉnh sửa tỉ mỉ để phù hợp với nội dung của bài và với nhiều chức năng tiện ích đi kèm giúp thuận lợi cho người dùng và có tính thẩm mỹ cao",
+      "categoryId": "2",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "HTML/css"
+    },
+    {
+      "id": "2",
+      "name": "JAVASCRIPT"
+    },
+    {
+      "id": "3",
+      "name": "DỰ ÁN"
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn Hưng"
+    }
+  ]
+}
